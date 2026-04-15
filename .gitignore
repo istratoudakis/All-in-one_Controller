@@ -1,0 +1,17 @@
+# API Keys and Secrets
+.env
+auth_token.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Arduino / ESP32
+*.hex
+*.elf
+*.bin
+.vscode/ (προαιρετικά, αν δεν θέλεις να φαίνονται οι ρυθμίσεις του editor σου)
+*.mp4
